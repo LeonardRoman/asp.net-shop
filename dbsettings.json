@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=DydarShop;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
